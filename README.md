@@ -1,7 +1,7 @@
 # React-Navbar
 <hr>
 
-![React & React-Dom Version - 18.2.0](https://img.shields.io/static/v1?label=React+%26+React-Dom+Version&message=18.2.0&color=00ff78&style=for-the-badge) ![Reat-Router-Dom Version - 6.6.1](https://img.shields.io/static/v1?label=Reat-Router-Dom+Version&message=6.6.1&color=00ff78&style=for-the-badge)
+![React & React-Dom Version - 18.2.0](https://img.shields.io/static/v1?label=React+%26+React-Dom+Version&message=18.2.0&color=blue&style=for-the-badge) ![Reat-Router-Dom Version - 6.6.1](https://img.shields.io/static/v1?label=Reat-Router-Dom+Version&message=6.6.1&color=blue&style=for-the-badge)
 
 <hr>
 
