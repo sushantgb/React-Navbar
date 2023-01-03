@@ -72,6 +72,14 @@ html{
   gap: 1em;
 }
 
+@media only screen and (max-width: 900px){
+    .navigator{
+      display: flex;
+      flex-direction: column;
+      height: 8em;
+    }
+}
+
 
 
 
